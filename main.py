@@ -13,8 +13,7 @@
 # con.commit()
 # con.close()
 
-#####################TODO zamienic w read_temperature.db kolumne date na kolumne zawierajaca godzine odczytu
-#####################TODO tabela utworzona dopisac kod do zapisywania temperatury do tabeli i odczytu temperatury z tabeli i daty i godziny
+
 
 from datetime import datetime,date
 import requests
